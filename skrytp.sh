@@ -5,3 +5,4 @@ dzisiaj=$(date +%Y-%m-%d)
 
 # wyświetl dzisiejszą datę
 echo "Dzisiaj jest $dzisiaj"
+css
